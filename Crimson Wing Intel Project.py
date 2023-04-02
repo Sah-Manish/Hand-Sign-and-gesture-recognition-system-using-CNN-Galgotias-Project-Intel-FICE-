@@ -1,4 +1,4 @@
-# TechVidvan hand Gesture Recognizer
+# @__sah.ankit__ follow me on instagram
 
 # import necessary packages
 
@@ -77,3 +77,8 @@ while True:
 cap.release()
 
 cv2.destroyAllWindows()
+
+
+"""
+    I am quite aware of the mortality and the significance of my actions -- Manish Kumar (Ankit Sah)
+"""
