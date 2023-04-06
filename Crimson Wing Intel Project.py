@@ -54,9 +54,6 @@ while True:
 
                 landmarks.append([lmx, lmy])
 
-            # Drawing landmarks on frames
-            #mpDraw.draw_landmarks(frame, handslms, mpHands.HAND_CONNECTIONS)
-
             # Predict gesture
             prediction = model.predict([landmarks])
             # print(prediction)
@@ -81,4 +78,5 @@ cv2.destroyAllWindows()
 
 """
     I am quite aware of the mortality and the significance of my actions -- Manish Kumar (Ankit Sah)
+                                                                         -- Fate Averruncus
 """
